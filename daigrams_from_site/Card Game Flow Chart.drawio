@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.6">
   <diagram name="Page-1" id="iTtlwP_4X3J7MS5wPbKe">
-    <mxGraphModel dx="3078" dy="510" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="4590" dy="1230" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -294,8 +294,11 @@
         <mxCell id="5pDPthMTLBcil2FybXzJ-34" value="Health" style="rounded=1;whiteSpace=wrap;html=1;" parent="5pDPthMTLBcil2FybXzJ-30" vertex="1">
           <mxGeometry x="20" y="190" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="fBCCVPv2Rmv4J4mwN2-M-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-vCuPctvlPffaq55rbHN-1" target="43PMhwvk5TLssQWaSolF-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-vCuPctvlPffaq55rbHN-1" value="Avatar" style="rounded=0;whiteSpace=wrap;html=1;align=center;horizontal=1;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="-165" y="176.17999999999995" width="160" height="263.82" as="geometry" />
+          <mxGeometry x="-165" y="176.18" width="160" height="253.82" as="geometry" />
         </mxCell>
         <mxCell id="-vCuPctvlPffaq55rbHN-2" value="Name" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-145" y="223.92138751814218" width="120" height="38.92307692307693" as="geometry" />
@@ -309,11 +312,17 @@
         <mxCell id="-vCuPctvlPffaq55rbHN-5" value="Ability" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-145" y="381.1025641025642" width="120" height="38.92307692307693" as="geometry" />
         </mxCell>
-        <mxCell id="xpRUuUHMK0KGqwG_sjwo-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xpRUuUHMK0KGqwG_sjwo-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1580" y="460" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xpRUuUHMK0KGqwG_sjwo-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xpRUuUHMK0KGqwG_sjwo-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1580" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fBCCVPv2Rmv4J4mwN2-M-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-165" y="425.0033333333333" as="sourcePoint" />
+            <mxPoint x="-440" y="470" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
