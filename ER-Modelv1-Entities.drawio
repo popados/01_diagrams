@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="5T14eyrD0FtKHGCC795-">
-    <mxGraphModel dx="2578" dy="1650" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1625" dy="1040" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1314,7 +1314,7 @@
         <mxCell id="wbSiXqDVmQrNNqnvQofx-667" parent="wbSiXqDVmQrNNqnvQofx-654" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;" value="" vertex="1">
           <mxGeometry height="93" width="784" y="300" as="geometry" />
         </mxCell>
-        <mxCell id="wbSiXqDVmQrNNqnvQofx-668" parent="wbSiXqDVmQrNNqnvQofx-667" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;fontSize=20;" value="Each SECTION is in one POOL. (BR-13)&amp;nbsp;&lt;div&gt;POOLS may have zero or many SECTIONS. (BR-13)&lt;/div&gt;" vertex="1">
+        <mxCell id="wbSiXqDVmQrNNqnvQofx-668" parent="wbSiXqDVmQrNNqnvQofx-667" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;fontSize=20;" value="Each SECTION is at one POOL. (BR-13)&amp;nbsp;&lt;div&gt;POOLS may have zero or many SECTIONS. (BR-13)&lt;/div&gt;" vertex="1">
           <mxGeometry height="93" width="784" as="geometry">
             <mxRectangle height="93" width="784" as="alternateBounds" />
           </mxGeometry>
