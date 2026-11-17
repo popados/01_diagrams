@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="iceDM11s7TmMjf1cZj2l">
-    <mxGraphModel dx="4083" dy="3396" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3526" dy="3000" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -131,7 +131,7 @@
             <mxRectangle height="40" width="230" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ntho2yNs-0NoFk4AI_ip-104" parent="1" style="shape=table;startSize=50;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;right=1;left=1;bottom=1;top=1;resizeLastRow=1;fontSize=25;" value="Product(Master List)" vertex="1">
+        <mxCell id="ntho2yNs-0NoFk4AI_ip-104" parent="1" style="shape=table;startSize=50;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;right=1;left=1;bottom=1;top=1;resizeLastRow=1;fontSize=25;" value="Product (Master List)" vertex="1">
           <mxGeometry height="370" width="280" x="570" y="-1050" as="geometry">
             <mxRectangle height="30" width="70" x="40" y="40" as="alternateBounds" />
           </mxGeometry>
